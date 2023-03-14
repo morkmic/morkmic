@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+🌱 For last 7 years I've been PLC programmer. This journey tooks me to several continents⛵. Now I want to take my knowledge and experience to try my chances in IT world. I'm intrested to become Java Developer.
+
+📖 Learned things so far:
+- Java
+- SQL
+- working on ItelliJ IDEA (also with Maven)
+- Spring
+- Hibernate
+- Git
+- Lombok
+
 <!--
 **morkmic/morkmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
