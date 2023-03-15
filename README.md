@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 🌱 About me:
-
 For last 7 years I've been PLC programmer. This journey took me to several continents⛵ where I worked for biggest automotive producers. Now I want to take my knowledge and experience to try my chances in IT world. I want to become Java Developer.
 
 📖 Things learned so far:
