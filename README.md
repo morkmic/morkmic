@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🌱 About me:
+🌱 **About me:**
 
-For last 7 years I've been PLC programmer. This journey took me to several continents⛵ where I worked for biggest automotive producers. Now I want to take my knowledge and experience to try my chances in IT world. I want to become Java Developer.
+  For last 7 years I've been PLC programmer. This journey took me to several continents⛵ where I worked for biggest automotive producers. Now I want to   take my knowledge and experience to try my chances in IT world. I want to become Java Developer.
 
-📖 Things learned so far:
+📖 **Things learned so far:**
 - Java
 - SQL
 - working on ItelliJ IDEA (also with Maven)
@@ -12,7 +12,7 @@ For last 7 years I've been PLC programmer. This journey took me to several conti
 - Hibernate
 - Git
 
-😄 More about me:
+😄 **More about me:**
 - love to ride motorcycle
 - reading fantasy books
 - playing on games consols
