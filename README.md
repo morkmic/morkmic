@@ -9,8 +9,13 @@
 - Spring
 - Hibernate
 - Git
-- Lombok
 
+😄 More about me:
+- love to ride motorcycle
+- reading fantasy books
+- playing on games consols
+- playing board games
+- travelig
 <!--
 **morkmic/morkmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
