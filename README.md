@@ -2,13 +2,14 @@
 
 🌱 **About me:**
 
-  For last 7 years I've been PLC programmer. This journey took me to several continents⛵ where I worked mostly for biggest automotive producers as well           as for USA military contractor. Now I want to take my knowledge and experience to try my chances in IT world.
+  For last 7 years I've been Programmable Logic Controller programmer. This journey took me to several continents⛵ where I worked mostly for biggest automotive producers as well as for USA military contractor. Now I want to take my knowledge and experience to try my chances in IT world.
 
 📖 **Things learned so far:**
 - Java
 - SQL
 - Spring
 - Hibernate 
+- REST
 - working on ItelliJ IDEA 
 - Maven
 - Gradle
